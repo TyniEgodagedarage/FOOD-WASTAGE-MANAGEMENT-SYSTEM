@@ -1,1 +1,4 @@
-# FOOD-WASTAGE-MANAGEMENT-SYSTEM![WhatsApp Image 2022-09-14 at 17 01 39](https://user-images.githubusercontent.com/83944194/194595528-57fbad74-7ccb-45d9-832a-82be9fd6fa4b.jpeg)
+# FOOD-WASTAGE-MANAGEMENT-SYSTEM!
+Web application using MERN stack.This is a real client project for Gampaha Youth Social Service Association.There are two main project food for all and bio gas project.There are two main user roles such as Donner and Admin. Donners can donate foods in good quality to food for all project by providing food type, potions,expiry hours and location. Admin will track the location and collect foods and donate to whom it may need. As well as users are able to do monetary donations using our payment gateway.Foods are not in good quality can be donate to bio gas project for every 1kg they will be able to earn reward call bio star and when they earn 1000 bio starts they will be able to win bio gas unit.
+
+![WhatsApp Image 2022-09-14 at 17 01 39](https://user-images.githubusercontent.com/83944194/194596179-63e8c2e4-5867-4887-8033-55e9dfdbbc32.jpeg)
